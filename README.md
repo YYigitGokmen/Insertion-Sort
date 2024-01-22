@@ -5,6 +5,7 @@ Insertion Sort
 1.soru Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Cevap
+
 [22,27,16,2,18,6]
 
 [2,27,16,22,18,6]
@@ -12,7 +13,6 @@ Cevap
 [2,6,16,22,18,27]
 
 [2,6,16,18,22,27]
-
 
 2. Soru Big-O gösterimini yazınız.
 
@@ -31,7 +31,7 @@ Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
-Cevap: Average Case: Aradığımız sayının ortada olması
+Cevap: Average Case Aradığımız sayının ortada olması
 
 
 [2,6,16,18,22,27]
